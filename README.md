@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<img width="400px" align="center" 
+               src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericpsherman&hide=html,php,blade,makefile,vhdl,c,qmake,css&langs_count=6&layout=compact&theme=dracula" />
 <!--
 **ericpsherman/ericpsherman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
